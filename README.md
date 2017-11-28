@@ -20,4 +20,4 @@ and to contributors who have helped create and develop these bots
 
 ## Disclaimer
 ```
-I just want to make a bot that suits for me^^# SelfBot
+I just want to make a bot that suits for me^^
